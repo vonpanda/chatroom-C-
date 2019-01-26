@@ -1,0 +1,4 @@
+#define SERVER_IP "127.0.0.1"
+#define SERVER_PORT 10640
+#define MAX_USER 9999
+#define MESSAGE_LEN 1024
